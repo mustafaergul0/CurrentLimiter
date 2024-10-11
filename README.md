@@ -1,5 +1,7 @@
 # Arduino Current Limiting Circuit
 
+For the project blog post and details, visit the link: https://mustafaergul.net/arduino-ile-akim-kontrolu-mosfet-ve-acs712yazilimsal-sigorta/
+
 ## Overview
 
 This project demonstrates how to control the current flowing through a load using an Arduino, MOSFET, and ACS712 current sensor. The circuit limits the current to a predefined threshold (2A in this case) and cuts off the power if the current exceeds this limit, similar to a circuit breaker in electrical systems.
